@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qly2U85P8zSwieq5xOUq1l9jseckbltJM24tAToM3epX6FyuAUtJZ+Xge/VD+xLRDcSY0I63JZpeNxhPaLNAnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Lab9_213003-main\\E1\\E1\\E1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}
